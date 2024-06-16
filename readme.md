@@ -102,6 +102,6 @@ Send a GET request to `/api/v1/friends/` including the JWT token in the Authoriz
 
 Send a GET request to `/api/v1/search/` including the JWT token in the Authorization header with a query parameter for the search keyword.
 
-To search by email: /api/v1/search/?query=email@example.com
-To search by name: /api/v1/search/?query=John
+    To search by email: /api/v1/search/?query=email@example.com
+    To search by name: /api/v1/search/?query=John
 
