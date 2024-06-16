@@ -25,9 +25,9 @@ Make sure you have the following installed on your machine:
 
     1.  Clone the Repository
 
-    git clone https://github.com/yourusername/django-friend-request-api.git
+    git clone https://github.com/NiharKashyap/django-friends.git
 
-    cd django-friend-request-api
+    cd django-friend
 
     2. Create and Activate a Virtual Environment
 
